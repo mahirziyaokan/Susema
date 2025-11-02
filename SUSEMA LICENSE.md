@@ -654,6 +654,16 @@ get its source.  For example, if your program is a web application, its
 interface could display a "Source" link that leads users to an archive
 of the code.  There are many ways you could offer source, and different
 solutions will be better for different programs; see section 13 for the
+
+
+
+ERA MEDYA REKLAMSANAT MEDYA TASARIMltd şti.
+
+YAVUZ SELİM MAHALLESİ SERHATKENT SİTESİC BLOK 6/13 ERYAMAN ANKARA TÜRKİYE
+
+ZİYA ERAL
+
+VERGİ HESAP NO : 3370168703
 specific requirements.
 
   You should also get your employer (if you work as a programmer) or school,
