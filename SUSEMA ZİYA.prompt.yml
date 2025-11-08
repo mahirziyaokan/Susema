@@ -1,0 +1,7 @@
+modelParameters:
+  max_tokens: 4096
+  stop: []
+model: microsoft/mai-ds-r1
+messages: []
+testData: []
+evaluators: []
