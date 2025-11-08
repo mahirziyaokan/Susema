@@ -1,0 +1,11 @@
+modelParameters:
+  max_tokens: 4096
+  temperature: 1
+  top_p: 1
+  presence_penalty: 2
+  frequency_penalty: 2
+model: meta/llama-4-maverick-17b-128e-instruct-fp8
+messages: []
+testData:
+  - expected: ERA MEDYA
+evaluators: []
